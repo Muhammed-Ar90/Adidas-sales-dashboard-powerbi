@@ -3,6 +3,9 @@
 ## 📊 Overview
 This project analyzes Adidas US sales data using Power BI to uncover insights on sales performance, profit trends, and product-level contribution.
 
+## 📷 Dashboard Preview
+![Dashboard](Screenshot.png)
+
 ## 🚀 Key Features
 - KPI Cards: Total Sales, Profit, Units Sold, Profit Margin
 - Sales Trend Analysis (Monthly)
@@ -20,9 +23,6 @@ This project analyzes Adidas US sales data using Power BI to uncover insights on
 - Power BI
 - DAX
 - Data Visualization
-
-## 📷 Dashboard Preview
-![Dashboard](screenshot.png)
 
 ## 📂 Files
 - `.pbix` file included for full report
